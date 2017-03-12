@@ -1,0 +1,58 @@
+
+
+img{
+	width: 100%;
+}
+
+.header_section{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border: 2px solid red;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.s{
+	clear: both;
+}
+
+.logo{
+	width: 30%;
+	margin: 0;
+	float: left;
+	border: 2px solid green;
+	box-sizing: border-box;
+}
+
+.menu{
+	width: 65%;
+	margin: 0;
+	float: right;
+	border: 2px solid green;
+	box-sizing: border-box;
+}
+
+.news img{
+	width: 100%;
+}
+
+
+
+.news_section{
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+	border: 2px solid red;
+}
+
+.news{
+	margin: 0;
+	padding: 10px;
+	vertical-align: top;
+	width: 33.3%;
+	border: 2px solid green;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
